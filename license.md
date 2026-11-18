@@ -203,4 +203,4 @@ Use the button in the Quick Start section.
 
 ---
 
-*Factorio · Updated 2026-11-17 · Shared under the MIT License*
+*Factorio · Updated 2026-11-18 · Shared under the MIT License*
